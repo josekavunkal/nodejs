@@ -1,0 +1,32 @@
+{
+  "name": "josenodejs",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "cors": "2.8.1",
+    "mongoose": "~3.6.13"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josekavunkal/nodejs.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jose <josekavunkal@gmail.com> (https://github.com/josekavunkal/nodejs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josekavunkal/nodejs/issues"
+  },
+  "homepage": "https://github.com/josekavunkal/nodejs#readme",
+  "description": ""
+}
